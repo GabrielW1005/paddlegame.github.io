@@ -1,4 +1,4 @@
-import Paddle from '/Users/gabrielwoodsum/Desktop/JavaScriptFiles2021/IntroGameDevJS/paddle.js';
+import Paddle from 'src/paddle.js';
 
 let canvas = document.getElementById("gameScreen");
 
@@ -22,4 +22,3 @@ ctx.fillRect(240, 200, 50, 50);
 let paddle = new Paddle(GAME_WIDTH, GAME_HEIGHT);
 
 paddle.draw;
-
