@@ -1,4 +1,4 @@
-import Paddle from './paddle.js';
+import Paddle from '/Users/gabrielwoodsum/Documents/GitHub/GabrielW1005.github.io/paddle.js';
 
 let canvas = document.getElementById("gameScreen");
 
